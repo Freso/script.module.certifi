@@ -9,8 +9,8 @@
   <extension point="xbmc.python.module"
              library="lib" />
   <extension point="xbmc.addon.metadata">
-    <summary>Python SSL Certificates</summary>
-    <description>Packed for KODI from https://github.com/certifi/python-certifi</description>
+    <summary lang="en_GB">Python SSL Certificates</summary>
+    <description lang="en_GB">Packed for KODI from https://github.com/certifi/python-certifi</description>
     <platform>all</platform>
     <language></language>
     <license>MPL-2.0</license>
