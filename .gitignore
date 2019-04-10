@@ -6,3 +6,5 @@ lib/setup.*
 lib/MANIFEST.in
 lib/Makefile
 lib/strip-non-ascii
+lib/PKG-INFO
+lib/certifi.egg-info/
